@@ -7,6 +7,8 @@ This makes it really easy to build push and deploy projects using Container Imag
 with [Amazon Elastic Container Registry](https://aws.amazon.com/ecr/) Repositories
 and any other AWS Service you like.
 
+DockerHub repository https://hub.docker.com/r/valvk/datg
+
 ## License and Authors
 
 Author: Val Vk val.vk@gmail.com
