@@ -1,7 +1,7 @@
 # Docker CLI + AWS CLI + Terraform + GIT = DATG Docker Image
 
 This image packs the [Docker CLI](https://docs.docker.com/engine/reference/commandline/cli/)
-and [AWS Command Line Interface (CLI)](https://aws.amazon.com/cli/) and [Terraform](https://terraform.io) and [GIT](https://git-scm.com/).
+and [AWS Command Line Interface (CLI)](https://aws.amazon.com/cli/) and [Terraform](https://terraform.io) and [GIT](https://git-scm.com/)
 
 This makes it really easy to build push and deploy projects using Container Images,
 with [Amazon Elastic Container Registry](https://aws.amazon.com/ecr/) Repositories
